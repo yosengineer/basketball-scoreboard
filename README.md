@@ -1,3 +1,3 @@
 # Basketball Scoreboard
 
-This is a simeple web application.
+This is a simple web application.
